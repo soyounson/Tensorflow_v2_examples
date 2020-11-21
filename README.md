@@ -4,7 +4,7 @@ Find more examples and sources on (tensorflow website)[https://www.tensorflow.or
 ### Curriculum
 01) Basic matho operations
 02) Linear regression using keras
-03) ...
+03) Fashion MNIST
 
 In each folder, you can find two `python` and `jupyter notebook` codes. 
 
