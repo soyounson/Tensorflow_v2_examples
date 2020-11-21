@@ -1,4 +1,4 @@
-:black_heart: Examples
+:black_heart: Examples (tf v.2)
 Find more examples and sources on (tensorflow website)[https://www.tensorflow.org/tutorials]
 
 ### Curriculum
@@ -9,7 +9,7 @@ Find more examples and sources on (tensorflow website)[https://www.tensorflow.or
 In each folder, you can find two `python` and `jupyter notebook` codes. 
 
 ### Prerequisite 
-`python v.3.x` and `tensorflow v.2.x` and `jupyter notebook` (optional)
+`python v.3.x`, `tensorflow v.2.x` and `jupyter notebook` (optional)
 
 ### Run python code
 open your terminal
