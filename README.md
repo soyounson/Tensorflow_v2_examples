@@ -4,9 +4,9 @@ Find more examples and sources on (tensorflow website)[https://www.tensorflow.or
 ### Curriculum
 - [x] 01. Basic matho operations
 - [x] 02. Linear regression using keras
-- [ ] 03. [Classification:Fashion MNIST](https://www.tensorflow.org/tutorials/keras/classification)
-- [ ] 04. [Regression](https://www.tensorflow.org/tutorials/keras/regression)
-- [ ] 05. [CNN](https://www.tensorflow.org/tutorials/images/cnn)
+- [x] 03. [CNN](https://www.tensorflow.org/tutorials/images/cnn)
+- [ ] 04. [Classification:Fashion MNIST](https://www.tensorflow.org/tutorials/keras/classification)
+- [ ] 05. [Regression](https://www.tensorflow.org/tutorials/keras/regression)
 - [ ] 06. [Text Classification by RNN](https://www.tensorflow.org/tutorials/text/text_classification_rnn)
 - [ ] ...
 >In each folder, you can find two `python` and `jupyter notebook` codes. 
