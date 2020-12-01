@@ -1,5 +1,5 @@
 :black_heart: Examples (tf v.2)
-Find more examples and sources on (tensorflow website)[https://www.tensorflow.org/tutorials]
+Find more examples and sources on [tensorflow website](https://www.tensorflow.org/tutorials)
 
 ### Curriculum
 - [x] 01. Basic matho operations
