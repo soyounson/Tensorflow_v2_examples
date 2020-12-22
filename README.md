@@ -6,7 +6,7 @@ Find more examples and sources on (tensorflow website)[https://www.tensorflow.or
 - [x] 02. Linear regression using keras
 - [x] 03. [CNN](https://www.tensorflow.org/tutorials/images/cnn)
 - [x] 04. [Audio recognition](https://www.tensorflow.org/tutorials/audio/simple_audio?hl=en)
-- [ ] 05. [Classification:Fashion MNIST](https://www.tensorflow.org/tutorials/keras/classification)
+- [x] 05. [Classification:Fashion MNIST](https://www.tensorflow.org/tutorials/keras/classification)
 - [ ] 06. [Regression](https://www.tensorflow.org/tutorials/keras/regression)
 - [ ] 07. [Text Classification by RNN](https://www.tensorflow.org/tutorials/text/text_classification_rnn)
 - [ ] ...
